@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: '/superhero/'
+    publicPath: '/vue-learning/'
   }
