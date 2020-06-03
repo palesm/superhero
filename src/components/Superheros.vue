@@ -17,18 +17,13 @@
         data() {
             return {
                 superheros: [
-                    {
+                   {
                         id: 1,
-                        name: "backman",
-                        skill: "antisobriety",
-                        hired: false
-                    }, {
-                        id: 2,
                         name: "baba",
                         skill: "sleep",
                         hired: false
                     }, {
-                        id: 3,
+                        id: 2,
                         name: "zulcsimano",
                         skill: "coding",
                         hired: false
